@@ -1,7 +1,7 @@
 # AstroNvim Config
 
-**NOTE:** If you got here from the Elixir Forums, please read the "solution" post at the end of that
-thread for the context on this repo. Probably you want to start with [elixir-phoenix pack](https://github.com/AstroNvim/astrocommunity/tree/main/lua/astrocommunity/pack/elixir-phoenix)
+**NOTE:** If you got here from the Elixir Forums, please read the "solution" post at the end of
+[that thread](https://elixirforum.com/t/getting-heex-and-h-working-in-nvim-with-astronvim/54779/35) for the context on this repo. Probably you want to start with [elixir-phoenix pack](https://github.com/AstroNvim/astrocommunity/tree/main/lua/astrocommunity/pack/elixir-phoenix)
 and then customize for your own needs.
 
 **NOTE:** This is for AstroNvim v4+
