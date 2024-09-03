@@ -58,3 +58,8 @@ gui:
   authorColors:
     "*": "#b4befe"
 ```
+
+## ⇧ Update Plugins
+
+- Just do it from within nvim: `space + p + U`
+- To update mason and lazy: `space + p + a`.
